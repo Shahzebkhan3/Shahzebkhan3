@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Shahzeb Khan
 
-🎓 Master's student in Cybersecurity & Cloud Computing  
-💻 Passionate about DevOps, Cloud Native, and AI-Driven Security  
-📍 Based in Norway  
+- Master's student in Cybersecurity & Cloud Computing  
+- Passionate about DevOps, Cloud Native, and AI-Driven Security  
+- Based in Norway  
 
 ## 🔧 Technologies & Tools
 - Python, C#, Kotlin, Java  
